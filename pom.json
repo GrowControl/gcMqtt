@@ -14,6 +14,13 @@
 			"Version": "${project.version}",
 			"Scope": "provided"
 		},
+		"pxnCommon-Config": {
+			"GroupId": "com.poixson",
+			"ArtifactId": "common-config",
+			"Name": "pxnCommon-Config",
+			"Version": "${project.version}",
+			"Scope": "provided"
+		},
 		"gcServer": {
 			"GroupId": "com.growcontrol",
 			"ArtifactId": "server",
@@ -27,6 +34,12 @@
 			"Name": "gcClient",
 			"Version": "${project.version}",
 			"Scope": "provided"
+		},
+		"snakeyaml": {
+			"GroupId": "org.yaml",
+			"ArtifactId": "snakeyaml",
+			"Name": "SnakeYAML",
+			"Version": "1.21"
 		}
 	}
 }

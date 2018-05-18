@@ -1,0 +1,8 @@
+Plugin Name: gcMqtt
+App Version: 3.6.2
+Server Main: com.growcontrol.plugins.gcmqtt.server.gcMqtt.class
+Client Main: com.growcontrol.plugins.gcmqtt.client.gcMqtt.class
+Author: lorenzop
+Website: http://growcontrol.com/
+Depend: []
+SoftDepend: []
